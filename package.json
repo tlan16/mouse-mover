@@ -34,7 +34,7 @@
     "rollup": "^4.18.1",
     "rollup-obfuscator": "^4.1.1",
     "typescript": "^5.4.5",
-    "typescript-eslint": "^7.11.0"
+    "typescript-eslint": "^8.0.0"
   },
   "dependencies": {
     "pino": "^9.1.0",
