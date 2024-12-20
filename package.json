@@ -30,7 +30,7 @@
     "eslint": "^9.13.0",
     "eslint-plugin-unused-imports": "^4.1.4",
     "husky": "^9.1.6",
-    "js-confuser": "^1.7.3",
+    "js-confuser": "^2.0.0",
     "lint-staged": "^15.2.10",
     "rollup": "^4.24.0",
     "rollup-obfuscator": "^4.1.1",
